@@ -11,6 +11,8 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main)
         message.text = "Are you Ok ~ Kotlin!"
 //        message.setText("Are you Ok ~ Kotlin!");
+
+
     }
 }
 
